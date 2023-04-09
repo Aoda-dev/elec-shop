@@ -1,5 +1,4 @@
 import '../styles/globals.css';
-import Footer from '../components/Footer';
 import Head from 'next/head';
 import { Montserrat } from 'next/font/google';
 
